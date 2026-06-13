@@ -221,16 +221,16 @@ __metadata:
   linkType: hard
 
 "@opencode-ai/plugin@npm:^1.16.2":
-  version: 1.16.2
-  resolution: "@opencode-ai/plugin@npm:1.16.2"
+  version: 1.17.4
+  resolution: "@opencode-ai/plugin@npm:1.17.4"
   dependencies:
-    "@opencode-ai/sdk": "npm:1.16.2"
+    "@opencode-ai/sdk": "npm:1.17.4"
     effect: "npm:4.0.0-beta.74"
     zod: "npm:4.1.8"
   peerDependencies:
-    "@opentui/core": ">=0.3.2"
-    "@opentui/keymap": ">=0.3.2"
-    "@opentui/solid": ">=0.3.2"
+    "@opentui/core": ">=0.3.4"
+    "@opentui/keymap": ">=0.3.4"
+    "@opentui/solid": ">=0.3.4"
   peerDependenciesMeta:
     "@opentui/core":
       optional: true
@@ -238,16 +238,16 @@ __metadata:
       optional: true
     "@opentui/solid":
       optional: true
-  checksum: 10c0/a10d6259557c2b587afd93dc690bf5b3b0132272c0b0bca1f77c5a7ea9e3440ebbf1fbdf0a24e4a20ae05f23961c546a2feab53c8f50b10a9d237090c41d2146
+  checksum: 10c0/c923d5fcc9947c8966055284bb5442b004bd7cd1d930fed87cb0729f2a9c6ae59c13021662276697ff1445675117300f8fed27027101942c4394ad2d28e54090
   languageName: node
   linkType: hard
 
-"@opencode-ai/sdk@npm:1.16.2":
-  version: 1.16.2
-  resolution: "@opencode-ai/sdk@npm:1.16.2"
+"@opencode-ai/sdk@npm:1.17.4":
+  version: 1.17.4
+  resolution: "@opencode-ai/sdk@npm:1.17.4"
   dependencies:
     cross-spawn: "npm:7.0.6"
-  checksum: 10c0/0f8de5a64bfb4411ecddd0bb2c3049df07a5661a05e7c965e2404692f80394652b00a4d46985e97aabf8b26ac85e4313d8dbf7bce2280a297eb4fa88bf700a6a
+  checksum: 10c0/be22ce696a810fe8523ae7c209a0f651ee1cacd21a83c4c796c7d25907e6b17ba9149122e7f04e9660a8e3c38e6c861f847f412e37423a69b5c6d769adb26d9e
   languageName: node
   linkType: hard
 
@@ -302,12 +302,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:25.9.2":
-  version: 25.9.2
-  resolution: "@types/node@npm:25.9.2"
+"@types/node@npm:25.9.3":
+  version: 25.9.3
+  resolution: "@types/node@npm:25.9.3"
   dependencies:
     undici-types: "npm:>=7.24.0 <7.24.7"
-  checksum: 10c0/f14c0d56361febb985eccc45cf0834ee6e2f07c4389a636f3e1a55ebde320077a80bface18c9afd3092f5fa295925502c1a9d55f805efa813f634aa9c941cbac
+  checksum: 10c0/72d3aece9d42c2c641bcd3f3cb2dc2828b4bd384dfcbd910c404b8859a68bd69d50c4769ce7defd4ff5e049768e23e615f09407ea2cbbb5f44b90d75a7c6b8ca
   languageName: node
   linkType: hard
 
@@ -632,7 +632,7 @@ __metadata:
     "@eslint/js": "npm:^9.39.2"
     "@iarna/toml": "npm:^2.2.5"
     "@opencode-ai/plugin": "npm:^1.16.2"
-    "@types/node": "npm:25.9.2"
+    "@types/node": "npm:25.9.3"
     ajv: "npm:^8.18.0"
     c8: "npm:^11.0.0"
     eslint: "npm:^9.39.2"
